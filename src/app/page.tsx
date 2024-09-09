@@ -5,23 +5,23 @@ export default function Home() {
     <>
       <nav className="flex justify-between mb-5">
         <div className="flex flex-wrap justify-center">
-          <Link href="/">
-            <a className="bg-gray-200 hover:bg-gray-300 p-4 m-2 rounded">
-              Box 1
+          <Link href="https://wwwalt.michaeli-gymnasium.de/intern/vplan/vplanmgm.php?vplan=schueler1">
+            <a className="bg-blue-800 hover:bg-blue-900 text-white p-4 m-2 rounded">
+              Vertretungsplan Heute
+            </a>
+          </Link>
+          <Link href="https://wwwalt.michaeli-gymnasium.de/intern/vplan/vplanmgm.php?vplan=schueler2">
+            <a className="bg-blue-800 hover:bg-blue-900 text-white p-4 m-2 rounded">
+              Vertretungsplan Morgen
             </a>
           </Link>
           <Link href="/">
-            <a className="bg-gray-200 hover:bg-gray-300 p-4 m-2 rounded">
-              Box 2
-            </a>
-          </Link>
-          <Link href="/">
-            <a className="bg-gray-200 hover:bg-gray-300 p-4 m-2 rounded">
+            <a className="bg-blue-800 hover:bg-blue-900 text-white p-4 m-2 rounded">
               Box 3
             </a>
           </Link>
           <Link href="/">
-            <a className="bg-gray-200 hover:bg-gray-300 p-4 m-2 rounded">
+            <a className="bg-blue-800 hover:bg-blue-900 text-white p-4 m-2 rounded">
               Box 4
             </a>
           </Link>

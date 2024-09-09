@@ -3,6 +3,30 @@ import Link from "next/link"
 export default function Home() {
   return (
     <>
+      <nav className="flex justify-between mb-5">
+        <div className="flex flex-wrap justify-center">
+          <Link href="/">
+            <a className="bg-gray-200 hover:bg-gray-300 p-4 m-2 rounded">
+              Box 1
+            </a>
+          </Link>
+          <Link href="/">
+            <a className="bg-gray-200 hover:bg-gray-300 p-4 m-2 rounded">
+              Box 2
+            </a>
+          </Link>
+          <Link href="/">
+            <a className="bg-gray-200 hover:bg-gray-300 p-4 m-2 rounded">
+              Box 3
+            </a>
+          </Link>
+          <Link href="/">
+            <a className="bg-gray-200 hover:bg-gray-300 p-4 m-2 rounded">
+              Box 4
+            </a>
+          </Link>
+        </div>
+      </nav>
       <h1 className="text-lg mt-5 ml-5 mb-3">
         Das hier ist die inoffizielle MGM-Webseite
       </h1>

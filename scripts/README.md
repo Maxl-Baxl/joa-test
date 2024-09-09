@@ -1,0 +1,1 @@
+# In this folder, there are scripts that are meant to execute locally on development and not during production

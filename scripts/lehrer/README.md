@@ -1,0 +1,1 @@
+Die Lehrerliste bekommt man als TXT Datei vom Elternportal, sie wird als Lehrerliste.txt gespeichert, danach wird sie mit dem Skript in JSON umgewandelt und nach src/app/data/lehrerliste.json verschoben

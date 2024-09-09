@@ -1,0 +1,702 @@
+[
+    {
+        "meta_data": {
+            "title": "0117_001.pdf",
+            "doc_id": "dfc70fbd59b846368e9328efba3e4312",
+            "type": "table_vision",
+            "uploaded_from": "api",
+            "user_doc_id": null,
+            "doc_meta_data": "",
+            "folder_name": "",
+            "folder_id": "",
+            "created_at_iso": "2024-09-09T11:46:57+00:00",
+            "modified_at_iso": "2024-09-09T11:47:39+00:00",
+            "status": "reviewing",
+            "review_url": "https://app.docsumo.com/review-document/dfc70fbd59b846368e9328efba3e4312"
+        },
+        "data": {
+            "Tables": [
+                {
+                    "Column 01": {
+                        "value": "Fe\u1e9e",
+                        "position": [
+                            225,
+                            1350,
+                            263,
+                            1365
+                        ],
+                        "confidence": 1.0,
+                        "review_required": false
+                    },
+                    "Montag": {
+                        "value": ".2KU1 NT 301 2eko1 Bel 114 2ku2 Nu 336 2ku4 Slt K6 2mu1 Gst 329 1pug3 Ilg N012",
+                        "position": [
+                            147,
+                            363,
+                            323,
+                            508
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Dienstag": {
+                        "value": "2e5 .2b4 G\u00f6 101 2c2 R\u00f6t 205 Gru 223 2e6 Fra N115 2inf1 Fif N111 2ph3 Jar 037",
+                        "position": [
+                            370,
+                            365,
+                            545,
+                            505
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Mittwoch": {
+                        "value": ".*D/W1 R\u00e4 108 *E/W1 Shk N105 *Ev/W1 Dg 129 *Geo/ DK N004 *G/W1 Fra N012 *B/W1 Hbr 101 *C/W1 Alb 201 *Ph/W1 Ku 037 *Smw/ Ott 112 *PUG/ Rob N114",
+                        "position": [
+                            592,
+                            315,
+                            770,
+                            551
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Donnerstag": {
+                        "value": ".*2d2 Ahr N014 *2d5 DR N005 *2d1 KI N115 *2d6 Su N114 *2d4 Sm 123 *2d3 Gub 213",
+                        "position": [
+                            814,
+                            362,
+                            992,
+                            501
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Freitag": {
+                        "value": "2PUG Rob N113 1pug2 Fra N006 2pug4 Stf 108 2pug5 Gru 1pug6 Ueb 213 112",
+                        "position": [
+                            1035,
+                            374,
+                            1213,
+                            494
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Column 01": {
+                        "value": "2",
+                        "position": [
+                            71,
+                            755,
+                            86,
+                            771
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Montag": {
+                        "value": ".2KU1 NT 301 2eko1 Bel 114 2ku2 Nu 336 2ku4 Slt K6 2mu1 Gst 329 1pug3 lg N012",
+                        "position": [
+                            148,
+                            694,
+                            323,
+                            836
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Dienstag": {
+                        "value": ".2b4 2c2 2e5 G\u00f6 101 R\u00f6t 205 Gru 223 2e6 Fra N115 2inf1 Fif N111 2ph3 Jar 037",
+                        "position": [
+                            370,
+                            693,
+                            545,
+                            834
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Mittwoch": {
+                        "value": ".*D/W1 R\u00e4 108 *E/W1 Shk N105 *Ev/W1 Dg 129 *Geo/ DK N004 *G/W1 Fra N012 *B/W1 Hbr 101 *C/W1 Alb 201 *Ph/W1 Ku 037 *Smw/ Ott 112 *PuG/ Rob N114",
+                        "position": [
+                            592,
+                            643,
+                            771,
+                            880
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Donnerstag": {
+                        "value": ".*2d2 Ahr N014 *2d5 DR N005 *2d1 KI N115 *2d6 Su N114 *2d4 Sm 123 *2d3 Gub 213",
+                        "position": [
+                            814,
+                            692,
+                            993,
+                            829
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Freitag": {
+                        "value": ".2PUG Rob N113 1pug2 Fra N006 2pug4 Stf 108 2pug5 Gru 1pug6 Ueb 213 112",
+                        "position": [
+                            1035,
+                            704,
+                            1214,
+                            822
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Column 01": {
+                        "value": "3",
+                        "position": [
+                            68,
+                            1084,
+                            86,
+                            1099
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Montag": {
+                        "value": ".*2GE Fe\u1e9e 237 *2geo2 Alb 212 *2geo3 Sit 234 *2geo4 Ut 214 *2wr1 Sch 215 *2wr2 Rec 223",
+                        "position": [
+                            150,
+                            1021,
+                            322,
+                            1160
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Dienstag": {
+                        "value": "*2m4 Grs N207 *2m6 Rag N205 *2m5 Bed 234 *2m1 Ro 229 *2m2 Ott N206 *2m3 Pep 134",
+                        "position": [
+                            370,
+                            1021,
+                            549,
+                            1162
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Mittwoch": {
+                        "value": ".*2E2 Rol N006 *2E1 Shk N104 *2L1 GI 137 *2GEO Fe\u1e9e 237 *2C1 Wd 205 *2B1 Srt 101 *2PH1 Kt 001 *2KU1 NT 301 *2SMW Str 120 *2PUG Rob N113",
+                        "position": [
+                            592,
+                            971,
+                            771,
+                            1208
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Donnerstag": {
+                        "value": ".*2m4 Grs N207 *2m6 Rag N205 *2m5 Bed 234 *2m1 Ro 229 *2m2 Ott N206 *2m3 Pep 134",
+                        "position": [
+                            814,
+                            1018,
+                            994,
+                            1159
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Freitag": {
+                        "value": ".*2B1 Srt 101 *2b3 Env 138 *2e3 Ma 238 *2f1 Hmy N114 *212 Sai 126 *2ph2 Sbl 001 *2sps1 Seg 134 *2E1 Shk N104 *2L1 GI 137",
+                        "position": [
+                            1037,
+                            981,
+                            1213,
+                            1195
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Column 01": {
+                        "value": "6",
+                        "position": [
+                            71,
+                            2065,
+                            83,
+                            2081
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Montag": {
+                        "value": ".*2d2 Ahr N014 *2d5 DR N005 *2d1 KI N115 *2d6 Su N114 *2d4 Sm 123 *2d3 Gub 215",
+                        "position": [
+                            147,
+                            2003,
+                            325,
+                            2141
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Dienstag": {
+                        "value": ".*2g2 Wim N014 *2g3 Hey N114 *295 Ilg N012 *2g1 Wun N005 *2g4 Die 237",
+                        "position": [
+                            369,
+                            2014,
+                            547,
+                            2131
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Mittwoch": {
+                        "value": ".*2k1 Br 108 *2k2 Ett 113 *2ev1 Dg 115 *2eth3 Her N204 *2eth2 Roe N004 *2eth1 Ks N005",
+                        "position": [
+                            592,
+                            1999,
+                            769,
+                            2139
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Donnerstag": {
+                        "value": ".*2C1 Wd 205 *2sps2 Lg N015 *2b2 Hbr 101 *2E2 Rol N006 *2e4 Mit N106 *2f2 Dm 220 *2PH1 Kt 001",
+                        "position": [
+                            814,
+                            1990,
+                            992,
+                            2150
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Freitag": {
+                        "value": ".*2eko2 Rei N104 *2ku3 The 301 *2ku5 Slt K6 *2mu2 Wfl 329",
+                        "position": [
+                            1037,
+                            2026,
+                            1215,
+                            2114
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Column 01": {
+                        "value": "7",
+                        "position": [
+                            70,
+                            2813,
+                            85,
+                            2830
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Montag": {
+                        "value": ".*2C1 Wd 205 *2sps2 Lg N015 *2b2 Hbr 101 *2E2 Rol N006 *2e4 Mit N106 *2f2 Dm 220 *2PH1 Kt 001",
+                        "position": [
+                            147,
+                            2739,
+                            327,
+                            2902
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Dienstag": {
+                        "value": ".*2B1 Srt 101 *2b3 Env 138 *2e3 Ma 238 *2f1 Hmy N114 *212 Sai 126 *2ph2 Sbl 001 *2sps1 Seg 134 *2E1 Shk N104 *2L1 Gl 137",
+                        "position": [
+                            370,
+                            2714,
+                            546,
+                            2926
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Mittwoch": {
+                        "value": "",
+                        "position": [
+                            568,
+                            2654,
+                            792,
+                            2983
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Donnerstag": {
+                        "value": ".*2b4 G\u00f6 101 *2c2 R\u00f6t 201 Gru 223 *2e6 Fra N115 *2inf1 Fif N111 *2e5 *2ph3 Jar 001",
+                        "position": [
+                            814,
+                            2750,
+                            990,
+                            2891
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Freitag": {
+                        "value": "",
+                        "position": [
+                            1013,
+                            2654,
+                            1239,
+                            2983
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Column 01": {
+                        "value": "8",
+                        "position": [
+                            71,
+                            3142,
+                            84,
+                            3158
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Montag": {
+                        "value": "",
+                        "position": [
+                            123,
+                            2983,
+                            347,
+                            3311
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Dienstag": {
+                        "value": "",
+                        "position": [
+                            347,
+                            2983,
+                            568,
+                            3311
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Mittwoch": {
+                        "value": "*2ins1 Gr 329",
+                        "position": [
+                            597,
+                            3141,
+                            765,
+                            3157
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Donnerstag": {
+                        "value": "",
+                        "position": [
+                            792,
+                            2983,
+                            1013,
+                            3311
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Freitag": {
+                        "value": "",
+                        "position": [
+                            1013,
+                            2983,
+                            1239,
+                            3311
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Column 01": {
+                        "value": "9",
+                        "position": [
+                            70,
+                            3468,
+                            84,
+                            3486
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Montag": {
+                        "value": ".*2spko Lg N004 *2vkm1 Br 129",
+                        "position": [
+                            147,
+                            3453,
+                            325,
+                            3496
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Dienstag": {
+                        "value": ".*2SM Str AFZ *2smw Ma SVN",
+                        "position": [
+                            372,
+                            3456,
+                            545,
+                            3497
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Mittwoch": {
+                        "value": "*2ins1 Gr 329",
+                        "position": [
+                            596,
+                            3468,
+                            765,
+                            3484
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Donnerstag": {
+                        "value": "",
+                        "position": [
+                            792,
+                            3311,
+                            1013,
+                            3639
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Freitag": {
+                        "value": "",
+                        "position": [
+                            1013,
+                            3311,
+                            1239,
+                            3639
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Column 01": {
+                        "value": "10 10",
+                        "position": [
+                            62,
+                            3782,
+                            92,
+                            3829
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Montag": {
+                        "value": ".*2spko Lg N004 *2vkm1 Br 129",
+                        "position": [
+                            146,
+                            3780,
+                            325,
+                            3824
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Dienstag": {
+                        "value": ".*2SM Str AFZ *2smw Ma SVN 2smw2Smd TH3 2smw5 Joc TH2",
+                        "position": [
+                            371,
+                            3758,
+                            544,
+                            3849
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Mittwoch": {
+                        "value": "",
+                        "position": [
+                            568,
+                            3639,
+                            792,
+                            3969
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Donnerstag": {
+                        "value": "",
+                        "position": [
+                            792,
+                            3639,
+                            1013,
+                            3969
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Freitag": {
+                        "value": "",
+                        "position": [
+                            1013,
+                            3639,
+                            1239,
+                            3969
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Column 01": {
+                        "value": "11",
+                        "position": [
+                            64,
+                            4123,
+                            88,
+                            4141
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Montag": {
+                        "value": ".*2smwSom TH3 *2smw Lg TH1",
+                        "position": [
+                            148,
+                            4111,
+                            322,
+                            4154
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Dienstag": {
+                        "value": ".2smw Smd TH3 2smw5 Joc TH2",
+                        "position": [
+                            371,
+                            4111,
+                            544,
+                            4152
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Mittwoch": {
+                        "value": ".*2voc1 Gst VR 2stb1 Ra TH3",
+                        "position": [
+                            594,
+                            4109,
+                            765,
+                            4151
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Donnerstag": {
+                        "value": "",
+                        "position": [
+                            792,
+                            3969,
+                            1013,
+                            4294
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Freitag": {
+                        "value": "",
+                        "position": [
+                            1013,
+                            3969,
+                            1239,
+                            4294
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                },
+                {
+                    "Column 01": {
+                        "value": "12",
+                        "position": [
+                            62,
+                            4450,
+                            93,
+                            4468
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Montag": {
+                        "value": ".*2smwSom TH3 *2smw Lg TH1",
+                        "position": [
+                            147,
+                            4437,
+                            320,
+                            4481
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Dienstag": {
+                        "value": "",
+                        "position": [
+                            347,
+                            4294,
+                            568,
+                            4618
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Mittwoch": {
+                        "value": ".*2voc1 Gst VR 2stb1 Ra TH3",
+                        "position": [
+                            593,
+                            4436,
+                            765,
+                            4477
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Donnerstag": {
+                        "value": "",
+                        "position": [
+                            792,
+                            4294,
+                            1013,
+                            4618
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    },
+                    "Freitag": {
+                        "value": "",
+                        "position": [
+                            1013,
+                            4294,
+                            1239,
+                            4618
+                        ],
+                        "confidence": 0,
+                        "review_required": true
+                    }
+                }
+            ]
+        }
+    }
+]

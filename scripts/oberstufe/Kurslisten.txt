@@ -1,0 +1,1718 @@
+2B1 (Srt)
+1 Aal-Hassan, Shehed
+2 Abdurahman, Rischart
+3 Elfring, Julian
+4 Ibrahim Amballi, Yasin
+5 Iseni, Lorika
+6 Jakob, Simon
+7 Kutzmann, Johann
+8 Matic, llija
+9 Meder, Katharina
+10 Ortivero Calderön,
+11 Phan, Paul
+
+2C1 (Wd)
+1 Aghababyan, Harut
+2 Becker, Finn
+3 Bucher, Alexander
+4 Faliouni, Marwa
+5 Huang, Jeffrey
+6 Kögel, Luna
+7 Kraus, Michael
+8 Metzmeier, Emma
+9 Nase, Christoph
+10 Rathje, Jonas
+11 Stern, Lena
+12 Yahsi, Yavuz
+13 Zajac, Bartosz
+14 Ziegler, Leo
+
+2b2 (Hbr)
+1 Achenbach, Mathilda
+2 Bauer, Louisa
+3 Bergner, Inga
+4 Bissinger, Elin
+5 Brereton, Allana
+6 Dzuba, Yannick
+7 Gashi, Eronda
+8 Gerschel, Simon
+9 Grohs, Nicolas
+10 Grohs, Sonia
+11 Großmann, Anton
+12 Hadzic, Mehmed
+13 Hasani, Sare
+14 Kaiser, Lilli
+15 Mai, Constantin
+16 Natarajan, Aryan
+17 Rokitta, Sophia
+18 Schad, Mirijam
+19 Schindel, Diana
+20 Schinharl, Lisa
+21 Schmid, Felix
+22 Schmidt, Luca
+23 Walden, Lea
+24 Werstein, Elif
+25 Wittmann, Eric
+26 Wizigmann, Nicolas
+
+2c2 (Röt)
+1 Auer, Lorenz
+2 Auer, Valentin
+3 Dirnhofer, Theresa
+4 Docter, Sarah
+5 Friedrich, Corvin
+6 Gäßner, Max
+7 Gaul, Luis
+8 Hadzic, Mehmed
+9 Hausmann, Charlotte
+10 Heiß, Christoph
+11 Iseni, Lorika
+12 Kohlmaier, Noah
+13 Kondor, Botond
+14 Meder, Katharina
+15 Phan, Paul
+16 Sangoi, Giulia
+17 Schad, Mirijam
+18 Schindel, Diana
+19 Sinovcic, Lorena
+20 Slisko, Filip
+21 Weck, Jonathan
+
+2b3 (Env)
+1 Anwander, Johannes
+2 Behrens, Luca
+3 Bloch, Daniel
+4 Brichzin, Mara
+5 Chatzivasileiadou,
+6 Christ, Darius
+7 Docter, Sarah
+8 Ens, Julian
+9 Frank, Marleen
+10 Habermann, Philipp
+11 Hassan, Safia
+12 Kohlmaier, Noah
+13 Matic, Marko
+14 Metzmeier, Emma
+15 Palm, Julia
+16 Rathje, Jonas
+17 Richter, Paul
+18 Riek, Sonja
+19 Ritscher, Lena
+20 Sckopp, Dion
+21 Slisko, Filip
+22 Witte, Lukas
+
+2d1 (Kl)
+1 Aal-Hassan, Shehed
+2 Auer, Lorenz
+3 Bissinger, Elin
+4 Chatzivasileiadou,
+5 Dirnhofer, Theresa
+6 Frank, Marleen
+7 Gerschel, Simon
+8 Grohs, Sonia
+9 Hasani, Sare
+10 Jakob, Simon
+11 Kopic, Melda
+12 Mai, Constantin
+13 Meder, Katharina
+14 Nase, Christoph
+15 Rambeck, Robinson
+16 Reisinger, Tim
+17 Rührmair, Lena
+18 Schmidt, Luca
+19 Seidl, Laurin
+20 Tschense, Paula
+21 Werstein, Elif
+22 Yahsi, Yavuz
+
+2b4 (Gö)
+1 Becker, Finn
+2 Chatzivasileiadou,
+3 Ehrmann, Emilia
+4 Freimüller, Simon
+5 Götz, Hannah
+6 Götz, Maximilian
+7 Gutschmidt, Sarah
+8 Hartwig, Jara
+9 Heigl, Leon
+10 Heilmann, Liliane
+11 Hoang, Phuong Anh
+12 Hoffmann, Anais
+13 Kögel, Luna
+14 Kopic, Melda
+15 Krisch Aguilar, Paula
+16 Mehinovic, Senna
+17 Mocevic, Vukasin
+18 Mucher, Marlene
+19 Pfleger, Lena
+20 Poenaru, Victor
+21 Prexl, Matthias
+22 Rangelov, Alexander
+23 Rittweger, Paula
+24 Talebe, Ines
+25 Walter, Zeno
+
+2d2 (Ahr)
+1 Auer, Valentin
+2 Bloch, Daniel
+3 Christ, Darius
+4 Dzuba, Yannick
+5 Ekkert, Vlad
+6 Freimüller, Simon
+7 Gilles, Greta
+8 Großmann, Anton
+9 Hassan, Safia
+10 Heilmann, Liliane
+11 Kaiser, Lilli
+12 Kraus, Michael
+13 Maiwand, Davud
+14 Mehinovic, Senna
+15 Natarajan, Aryan
+16 Phan, Paul
+17 Rangelov, Alexander
+18 Richter, Paul
+19 Sangoi, Giulia
+20 Sewald, Thomas
+21 Walden, Lea
+22 Westenberger, Philipp
+23 Yuan, Zhechang
+
+2d3 (Gub)
+1 Aghababyan, Harut
+2 Bauer, Louisa
+3 Brereton, Allana
+4 Friedrich, Corvin
+5 Gashi, Eronda
+6 Gaul, Luis
+7 Gnan, Jasco
+8 Gutschmidt, Sarah
+9 Hausmann, Charlotte
+10 Kögel, Luna
+11 Krisch Aguilar, Paula
+12 Omerzai, Pasarle
+13 Pikalev, Andrej
+14 Rathje, Jonas
+15 Riek, Sonja
+16 Rokitta, Sophia
+17 Schindel, Diana
+18 Schob, Pauline
+19 Sinoveic, Lorena
+20 Walter, Zeno
+21 Waltner, Elias
+22 Witte, Lukas
+
+2E1 (Shk)
+1 Daiker, David
+2 Freimüller, Simon
+3 Gerschel, Simon
+4 Grohs, Nicolas
+5 Grohs, Sonia
+6 Großmann, Anton
+7 Hadzic, Mehmed
+8 Kopic, Melda
+9 Krisch Aguilar, Paula
+10 Mocevic, Vukasin
+11 Natarajan, Aryan
+12 Pfleger, Lena
+13 Rangelov, Alexander
+14 Rittweger, Paula
+15 Schmid, Felix
+
+2d4 (Sm)
+1 Achenbach, Mathilda
+2 Anwander, Johannes
+3 Brichzin, Mara
+4 Ehrmann, Emilia
+5 Elfring, Julian
+6 Götz, Hannah
+7 Habermann, Philipp
+8 Heiß, Christoph
+9 Hoang, Phuong Anh
+10 Huianu, Alexander
+11 Kohlmaier, Noah
+12 Martienssen, Nils
+13 Mocevic, Vukasin
+14 Mucher, Marlene
+15 Ortivero Calderön,
+16 Poenaru, Victor
+17 Reiminger, Corvin
+18 Ritscher, Lena
+19 Schinharl, Lisa
+20 Slisko, Filip
+21 Wittmann, Eric
+22 Ziegler, Leo
+
+2E2 (Rol)
+1 Christ, Darius
+2 Docter, Sarah
+3 Gilles, Greta
+4 Götz, Maximilian
+5 Gutschmidt, Sarah
+6 Hoang, Phuong Anh
+7 Komarnitskiy, Pavel
+8 Maiwand, Davud
+9 Mehinovic, Senna
+10 Mucher, Marlene
+11 Poenaru, Victor
+12 Poggemann, Freda
+13 Prexl, Matthias
+14 Sangoi, Giulia
+15 Sinovcic, Lorena
+16 Talebe, Ines
+17 Walter, Zeno
+18 Westenberger, Philipp
+
+2d5 (DR)
+1 Alahmar, Sophie
+2 Behrens, Luca
+3 Bucher, Alexander
+4 Chatzivasileiadou,
+5 Docter, Sarah
+6 Ens, Julian
+7 Gäßner, Max
+8 Götz, Maximilian
+9 Hadzic, Mehmed
+10 Heigl, Leon
+11 Ibrahim Amballi, Yasin
+12 Komarnitskiy, Pavel
+13 Kutzmann, Johann
+14 Matic, Marko
+15 Palm, Julia
+16 Pfleger, Lena
+17 Rittweger, Paula
+18 Schad, Mirijam
+19 Schütz, Max
+20 Stern, Lena
+21 Warlo, Mohammed
+22 Wizigmann, Nicolas
+23 Ziep, Maya
+
+2e3 (Ma)
+1 Auer, Valentin
+2 Dirnhofer, Theresa
+3 Ehrmann, Emilia
+4 Friedrich, Corvin
+5 Hartwig, Jara
+6 Heigl, Leon
+7 Heiß, Christoph
+8 Hoffmann, Anais
+9 Huianu, Alexander
+10 Kondor, Botond
+11 Omerzai, Pasarle
+12 Pikalev, Andrej
+13 Rambeck, Robinson
+14 Schinharl, Lisa
+15 Schob, Pauline
+16 Waltner, Elias
+17 Warlo, Mohammed
+18 Weck, Jonathan
+19 Yahsi, Yavuz
+20 Ziegler, Leo
+
+2d6 (Su)
+1 Abdurahman, Rischart
+2 Becker, Finn
+3 Bergner, Inga
+4 Daiker, David
+5 Faliouni, Marwa
+6 Grohs, Nicolas
+7 Hartwig, Jara
+8 Hoffmann, Anais
+9 Huang, Jeffrey
+10 Iseni, Lorika
+11 Kondor, Botond
+12 Luz-y-Graf, Paul
+13 Matic, llija
+14 Metzmeier, Emma
+15 Mutig, Timur
+16 Poggemann, Freda
+17 Prexl, Matthias
+18 Schmid, Felix
+19 Sckopp, Dion
+20 Talebe, Ines
+21 Weck, Jonathan
+22 Zajac, Bartosz
+
+2e4 (Mit)
+1 Anwander, Johannes
+2 Auer, Lorenz
+3 Bloch, Daniel
+4 Brichzin, Mara
+5 Chatzivasileiadou,
+6 Ekkert, Vlad
+7 Elfring, Julian
+8 Gäßner, Max
+9 Götz, Hannah
+10 Hausmann, Charlotte
+11 Heilmann, Liliane
+12 Iseni, Lorika
+13 Kohlmaier, Noah
+14 Luz-y-Graf, Paul
+15 Martienssen, Nils
+16 Meder, Katharina
+17 Mutig, Timur
+18 Phan, Paul
+19 Reisinger, Tim
+20 Richter, Paul
+21 Sckopp, Dion
+22 Sewald, Thomas
+23 Slisko, Filip
+
+2e5 (Gru)
+1 Aal-Hassan, Shehed
+2 Achenbach, Mathilda
+3 Behrens, Luca
+4 Bergner, Inga
+5 Bissinger, Elin
+6 Chatzivasileiadou,
+7 Ens, Julian
+8 Gashi, Eronda
+9 Gnan, Jasco
+10 Huang, Jeffrey
+11 Ibrahim Amballi, Yasin
+12 Mai, Constantin
+13 Metzmeier, Emma
+14 Nase, Christoph
+15 Palm, Julia
+16 Riek, Sonja
+17 Rokitta, Sophia
+18 Schmidt, Luca
+19 Seidl, Laurin
+20 Wizigmann, Nicolas
+21 Zajac, Bartosz
+22 Ziep, Maya
+
+2eth1 (Ks)
+1 Aghababyan, Harut
+2 Bissinger, Elin
+3 Chatzivasileiadou,
+4 Daiker, David
+5 Faliouni, Marwa
+6 Gnan, Jasco
+7 Grohs, Sonia
+8 Hassan, Safia
+9 Heigl, Leon
+10 Hoang, Phuong Anh
+11 Kögel, Luna
+12 Kopic, Melda
+13 Kraus, Michael
+14 Mutig, Timur
+15 Omerzai, Pasarle
+16 Pikalev, Andrej
+17 Schinharl, Lisa
+18 Seidl, Laurin
+19 Sewald, Thomas
+20 Waltner, Elias
+21 Yahsi, Yavuz
+22 Yuan, Zhechang
+
+2e6 (Fra)
+1 Abdurahman, Rischart
+2 Aghababyan, Harut
+3 Alahmar, Sophie
+4 Bauer, Louisa
+5 Brereton, Allana
+6 Bucher, Alexander
+7 Dzuba, Yannick
+8 Faliouni, Marwa
+9 Frank, Marleen
+10 Hasani, Sare
+11 Hassan, Safia
+12 Kaiser, Lilli
+13 Kutzmann, Johann
+14 Matic, Marko
+15 Ortivero Calderön,
+16 Rathje, Jonas
+17 Reiminger, Corvin
+18 Ritscher, Lena
+19 Tschense, Paula
+20 Werstein, Elif
+21 Witte, Lukas
+22 Yuan, Zhechang
+
+2eth2 (Roe)
+1 Aal-Hassan, Shehed
+2 Abdurahman, Rischart
+3 Chatzivasileiadou,
+4 Dirnhofer, Theresa
+5 Gashi, Eronda
+6 Gaul, Luis
+7 Hadzic, Mehmed
+8 Hasani, Sare
+9 Hoffmann, Anais
+10 Ibrahim Amballi, Yasin
+11 Kutzmann, Johann
+12 Maiwand, Davud
+13 Meder, Katharina
+14 Mehinovic, Senna
+15 Metzmeier, Emma
+16 Nase, Christoph
+17 Natarajan, Aryan
+18 Rambeck, Robinson
+19 Rangelov, Alexander
+20 Reisinger, Tim
+21 Schindel, Diana
+22 Schob, Pauline
+23 Schütz, Max
+
+2eko1 (Bel)
+1 Abdurahman, Rischart
+2 Bauer, Louisa
+3 Bloch, Daniel
+4 Ekkert, Vlad
+5 Faliouni, Marwa
+6 Friedrich, Corvin
+7 Hassan, Safia
+8 Huang, Jeffrey
+9 Kutzmann, Johann
+10 Mai, Constantin
+11 Metzmeier, Emma
+12 Natarajan, Aryan
+13 Pikalev, Andrej
+14 Reiminger, Corvin
+15 Slisko, Filip
+16 Tschense, Paula
+17 Weck, Jonathan
+18 Yahsi, Yavuz
+
+2eth3 (Her)
+1 Achenbach, Mathilda
+2 Becker, Finn
+3 Bergner, Inga
+4 Bloch, Daniel
+5 Brereton, Allana
+6 Brichzin, Mara
+7 Ekkert, Vlad
+8 Frank, Marleen
+9 Gäßner, Max
+10 Huianu, Alexander
+11 Iseni, Lorika
+12 Komarnitskiy, Pavel
+13 Kondor, Botond
+14 Mocevic, Vukasin
+15 Riek, Sonja
+16 Rokitta, Sophia
+17 Schmidt, Luca
+18 Talebe, Ines
+19 Tschense, Paula
+20 Walter, Zeno
+21 Warlo, Mohammed
+22 Werstein, Elif
+
+2eko2 (Rei)
+1 Aghababyan, Harut
+2 Alahmar, Sophie
+3 Christ, Darius
+4 Gaul, Luis
+5 Götz, Hannah
+6 Götz, Maximilian
+7 Großmann, Anton
+8 Hoang, Phuong Anh
+9 Iseni, Lorika
+10 Maiwand, Davud
+11 Matic, Marko
+12 Mehinovic, Senna
+13 Mocevic, Vukasin
+14 Rangelov, Alexander
+15 Schinharl, Lisa
+16 Schmid, Felix
+17 Sinovcic, Lorena
+18 Werstein, Elif
+19 Wizigmann, Nicolas
+
+2ev1 (Dg)
+1 Bauer, Louisa
+2 Docter, Sarah
+3 Friedrich, Corvin
+4 Gerschel, Simon
+5 Gilles, Greta
+6 Großmann, Anton
+7 Gutschmidt, Sarah
+8 Habermann, Philipp
+9 Hausmann, Charlotte
+10 Heiß, Christoph
+11 Poggemann, Freda
+12 Prexl, Matthias
+13 Richter, Paul
+14 Ritscher, Lena
+15 Rittweger, Paula
+16 Sangoi, Giulia
+17 Sckopp, Dion
+18 Stern, Lena
+19 Weck, Jonathan
+20 Ziep, Maya
+
+2f1 (Hmy)
+1 Auer, Lorenz
+2 Becker, Finn
+3 Bissinger, Elin
+4 Gnan, Jasco
+5 Gutschmidt, Sarah
+6 Hoang, Phuong Anh
+7 Mai, Constantin
+8 Mehinovic, Senna
+9 Prexl, Matthias
+10 Rokitta, Sophia
+11 Sangoi, Giulia
+12 Talebe, Ines
+13 Wizigmann, Nicolas
+
+2g3 (Hey)
+1 Achenbach, Mathilda
+2 Auer, Lorenz
+3 Auer, Valentin
+4 Daiker, David
+5 Dzuba, Yannick
+6 Ekkert, Vlad
+7 Friedrich, Corvin
+8 Gaul, Luis
+9 Gerschel, Simon
+10 Großmann, Anton
+11 Gutschmidt, Sarah
+12 Hadzic, Mehmed
+13 Hausmann, Charlotte
+14 Heiß, Christoph
+15 Kaiser, Lilli
+16 Kondor, Botond
+17 Matic, Marko
+18 Nase, Christoph
+19 Natarajan, Aryan
+20 Omerzai, Pasarle
+21 Ortivero Calderön,
+22 Richter, Paul
+23 Schad, Mirijam
+24 Schob, Pauline
+25 Slisko, Filip
+26 Walter, Zeno
+
+2f2 (Dm)
+1 Aal-Hassan, Shehed
+2 Auer, Valentin
+3 Ehrmann, Emilia
+4 Ens, Julian
+5 Frank, Marleen
+6 Freimüller, Simon
+7 Friedrich, Corvin
+8 Habermann, Philipp
+9 Heigl, Leon
+10 Hoffmann, Anais
+11 Jakob, Simon
+12 Matic, llija
+13 Matic, Marko
+14 Reiminger, Corvin
+15 Riek, Sonja
+16 Rührmair, Lena
+17 Seidl, Laurin
+18 Tschense, Paula
+
+2g4 (Die)
+1 Aal-Hassan, Shehed
+2 Becker, Finn
+3 Bucher, Alexander
+4 Chatzivasileiadou,
+5 Freimüller, Simon
+6 Gnan, Jasco
+7 Götz, Maximilian
+8 Heigl, Leon
+9 Hoang, Phuong Anh
+10 Huianu, Alexander
+11 Kraus, Michael
+12 Krisch Aguilar, Paula
+13 Metzmeier, Emma
+14 Phan, Paul
+15 Poenaru, Victor
+16 Prexl, Matthias
+17 Rittweger, Paula
+18 Sangoi, Giulia
+19 Schütz, Max
+20 Seidl, Laurin
+21 Sewald, Thomas
+22 Sinovcic, Lorena
+23 Waltner, Elias
+24 Westenberger, Philipp
+25 Wittmann, Eric
+26 Wizigmann, Nicolas
+27 Ziegler, Leo
+
+2g1 (Wun)
+1 Anwander, Johannes
+2 Behrens, Luca
+3 Bissinger, Elin
+4 Bloch, Daniel
+5 Chatzivasileiadou,
+6 Ehrmann, Emilia
+7 Frank, Marleen
+8 Grohs, Nicolas
+9 Grohs, Sonia
+10 Hartwig, Jara
+11 Hoffmann, Anais
+12 Huang, Jeffrey
+13 Jakob, Simon
+14 Mehinovic, Senna
+15 Mocevic, Vukasin
+16 Pikalev, Andrej
+17 Rangelov, Alexander
+18 Reiminger, Corvin
+19 Reisinger, Tim
+20 Ritscher, Lena
+21 Schmid, Felix
+22 Tschense, Paula
+23 Warlo, Mohammed
+24 Weck, Jonathan
+25 Witte, Lukas
+26 Yuan, Zhechang
+27 Zajac, Bartosz
+
+2g5 (Ilg)
+1 Abdurahman, Rischart
+2 Brereton, Allana
+3 Christ, Darius
+4 Docter, Sarah
+5 Elfring, Julian
+6 Faliouni, Marwa
+7 Gäßner, Max
+8 Gashi, Eronda
+9 Gilles, Greta
+10 Habermann, Philipp
+11 Hasani, Sare
+12 Hassan, Safia
+13 Ibrahim Amballi, Yasin
+14 Kögel, Luna
+15 Komarnitskiy, Pavel
+16 Kutzmann, Johann
+17 Luz-y-Graf, Paul
+18 Martienssen, Nils
+19 Mucher, Marlene
+20 Mutig, Timur
+21 Poggemann, Freda
+22 Schindel, Diana
+23 Schinharl, Lisa
+24 Sckopp, Dion
+25 Stern, Lena
+26 Walden, Lea
+27 Werstein, Elif
+
+2g2 (Wim)
+1 Aghababyan, Harut
+2 Alahmar, Sophie
+3 Bauer, Louisa
+4 Bergner, Inga
+5 Brichzin, Mara
+6 Dirnhofer, Theresa
+7 Ens, Julian
+8 Götz, Hannah
+9 Heilmann, Liliane
+10 Iseni, Lorika
+11 Kohlmaier, Noah
+12 Kopic, Melda
+13 Mai, Constantin
+14 Maiwand, Davud
+15 Matic, llija
+16 Meder, Katharina
+17 Palm, Julia
+18 Pfleger, Lena
+19 Rambeck, Robinson
+20 Rathje, Jonas
+21 Riek, Sonja
+22 Rokitta, Sophia
+23 Rührmair, Lena
+24 Schmidt, Luca
+25 Talebe, Ines
+26 Yahsi, Yavuz
+27 Ziep, Maya
+
+2GEO1 (Feß)
+1 Bauer, Louisa
+2 Dzuba, Yannick
+3 Ehrmann, Emilia
+4 Friedrich, Corvin
+5 Hasani, Sare
+6 Hassan, Safia
+7 Heilmann, Liliane
+8 Hoffmann, Anais
+9 Kaiser, Lilli
+10 Mai, Constantin
+11 Matic, Marko
+12 Mutig, Timur
+13 Reiminger, Corvin
+14 Schindel, Diana
+15 Schob, Pauline
+16 Seidl, Laurin
+17 Wizigmann, Nicolas
+
+2geo2 (Alb)
+1 Achenbach, Mathilda
+2 Aghababyan, Harut
+3 Becker, Finn
+4 Bissinger, Elin
+5 Bucher, Alexander
+6 Dirnhofer, Theresa
+7 Ens, Julian
+8 Gerschel, Simon
+9 Kohlmaier, Noah
+10 Kondor, Botond
+11 Kraus, Michael
+12 Luz-y-Graf, Paul
+13 Meder, Katharina
+14 Pikalev, Andrej
+15 Riek, Sonja
+16 Schad, Mirijam
+17 Schmidt, Luca
+18 Sewald, Thomas
+19 Stern, Lena
+20 Talebe, Ines
+21 Waltner, Elias
+22 Weck, Jonathan
+23 Yuan, Zhechang
+24 Ziegler, Leo
+
+2ins1 (Gr)
+1 Dirnhofer, Theresa
+2 Hartwig, Jara
+3 Rokitta, Sophia
+4 Ruhrmair, Lena
+5 Yuan, Zhechang
+
+2geo3 (Sit)
+1 Aal-Hassan, Shehed
+2 Auer, Valentin
+3 Behrens, Luca
+4 Docter, Sarah
+5 Elfring, Julian
+6 Gashi, Eronda
+7 Gilles, Greta
+8 Grohs, Nicolas
+9 Grohs, Sonia
+10 Habermann, Philipp
+11 Hausmann, Charlotte
+12 Heigl, Leon
+13 Hoang, Phuong Anh
+14 Huianu, Alexander
+15 Iseni, Lorika
+16 Martienssen, Nils
+17 Mehinovic, Senna
+18 Nase, Christoph
+19 Natarajan, Aryan
+20 Schinharl, Lisa
+21 Schmid, Felix
+22 Slisko, Filip
+23 Tschense, Paula
+24 Werstein, Elif
+
+2k1 (Br)
+1 Alahmar, Sophie
+2 Anwander, Johannes
+3 Behrens, Luca
+4 Christ, Darius
+5 Dzuba, Yannick
+6 Freimüller, Simon
+7 Götz, Hannah
+8 Götz, Maximilian
+9 Grohs, Nicolas
+10 Hartwig, Jara
+11 Huang, Jeffrey
+12 Jakob, Simon
+13 Mai, Constantin
+14 Matic, Marko
+15 Mucher, Marlene
+16 Ortivero Calderön,
+17 Phan, Paul
+18 Reiminger, Corvin
+19 Schad, Mirijam
+20 Slisko, Filip
+21 Wizigmann, Nicolas
+22 Zajac, Bartosz
+23 Ziegler, Leo
+
+2geo4 (Ut)
+1 Brichzin, Mara
+2 Christ, Darius
+3 Gäßner, Max
+4 Hadzic, Mehmed
+5 Hartwig, Jara
+6 Krisch Aguilar, Paula
+7 Kutzmann, Johann
+8 Mucher, Marlene
+9 Ortivero Calderön,
+10 Palm, Julia
+11 Phan, Paul
+12 Rambeck, Robinson
+13 Rangelov, Alexander
+14 Rathje, Jonas
+15 Reisinger, Tim
+16 Ritscher, Lena
+17 Rittweger, Paula
+18 Rokitta, Sophia
+19 Schütz, Max
+20 Sckopp, Dion
+21 Walter, Zeno
+22 Warlo, Mohammed
+23 Westenberger, Philipp
+24 Witte, Lukas
+25 Ziep, Maya
+
+2k2 (Ett)
+1 Auer, Lorenz
+2 Auer, Valentin
+3 Bucher, Alexander
+4 Ehrmann, Emilia
+5 Elfring, Julian
+6 Ens, Julian
+7 Heilmann, Liliane
+8 Kaiser, Lilli
+9 Kohlmaier, Noah
+10 Krisch Aguilar, Paula
+11 Luz-y-Graf, Paul
+12 Martienssen, Nils
+13 Matic, llija
+14 Palm, Julia
+15 Pfleger, Lena
+16 Poenaru, Victor
+17 Rathje, Jonas
+18 Rührmair, Lena
+19 Schmid, Felix
+20 Sinovcic, Lorena
+21 Walden, Lea
+22 Westenberger, Philipp
+23 Witte, Lukas
+24 Wittmann, Eric
+
+2inf1 (Fif)
+1 Anwander, Johannes
+2 Brichzin, Mara
+3 Christ, Darius
+4 Ekkert, Vlad
+5 Gilles, Greta
+6 Grohs, Sonia
+7 Huianu, Alexander
+8 Komarnitskiy, Pavel
+9 Maiwand, Davud
+10 Mutig, Timur
+11 Omerzai, Pasarle
+12 Rambeck, Robinson
+13 Reisinger, Tim
+14 Schütz, Max
+15 Sewald, Thomas
+16 Waltner, Elias
+17 Warlo, Mohammed
+18 Yahsi, Yavuz
+19 Ziegler, Leo
+
+2KU1 (NT)
+1 Bergner, Inga
+2 Bissinger, Elin
+3 Brereton, Allana
+4 Brichzin, Mara
+5 Gashi, Eronda
+6 Palm, Julia
+7 Reisinger, Tim
+8 Ritscher, Lena
+9 Schinharl, Lisa
+10 Werstein, Elif
+11 Yuan, Zhechang
+12 Ziep, Maya
+
+2ku2 (Num)
+1 Aghababyan, Harut
+2 Behrens, Luca
+3 Christ, Darius
+4 Gäßner, Max
+5 Gilles, Greta
+6 Grohs, Sonia
+7 Hasani, Sare
+8 Heigl, Leon
+9 Hoffmann, Anais
+10 Ibrahim Amballi, Yasin
+11 Maiwand, Davud
+12 Matic, Marko
+13 Nase, Christoph
+14 Rathje, Jonas
+15 Riek, Sonja
+16 Rittweger, Paula
+17 Schindel, Diana
+18 Schmid, Felix
+19 Schmidt, Luca
+20 Sinovcic, Lorena
+21 Talebe, Ines
+22 Witte, Lukas
+23 Wizigmann, Nicolas
+
+2L1 (Gl)
+1 Götz, Hannah
+2 Hausmann, Charlotte
+3 Rührmair, Lena
+4 Schad, Mirijam
+5 Walden, Lea
+6 Wittmann, Eric
+
+2ku3 (The)
+1 Abdurahman, Rischart
+2 Dirnhofer, Theresa
+3 Docter, Sarah
+4 Freimüller, Simon
+5 Grohs, Nicolas
+6 Habermann, Philipp
+7 Heilmann, Liliane
+8 Jakob, Simon
+9 Kopic, Melda
+10 Kraus, Michael
+11 Mai, Constantin
+12 Mucher, Marlene
+13 Natarajan, Aryan
+14 Reiminger, Corvin
+15 Rokitta, Sophia
+16 Schob, Pauline
+17 Sckopp, Dion
+18 Sewald, Thomas
+19 Stern, Lena
+20 Warlo, Mohammed
+21 Westenberger, Philipp
+22 Wittmann, Eric
+
+2l2 (Sai)
+1 Bergner, Inga
+2 Brereton, Allana
+3 Gaul, Luis
+4 Kögel, Luna
+5 Kraus, Michael
+6 Martienssen, Nils
+7 Schindel, Diana
+8 Schütz, Max
+9 Stern, Lena
+10 Walter, Zeno
+11 Westenberger, Philipp
+
+2ku4 (Slt)
+1 Anwander, Johannes
+2 Auer, Lorenz
+3 Chatzivasileiadou,
+4 Frank, Marleen
+5 Gnan, Jasco
+6 Hadzic, Mehmed
+7 Hoang, Phuong Anh
+8 Iseni, Lorika
+9 Kögel, Luna
+10 Komarnitskiy, Pavel
+11 Martienssen, Nils
+12 Meder, Katharina
+13 Mehinovic, Senna
+14 Mocevic, Vukasin
+15 Omerzai, Pasarle
+16 Pfleger, Lena
+17 Poenaru, Victor
+18 Poggemann, Freda
+19 Rangelov, Alexander
+20 Richter, Paul
+21 Walter, Zeno
+22 Waltner, Elias
+
+2m1 (Ro)
+1 Aal-Hassan, Shehed
+2 Auer, Lorenz
+3 Bissinger, Elin
+4 Chatzivasileiadou,
+5 Dirnhofer, Theresa
+6 Frank, Marleen
+7 Gerschel, Simon
+8 Grohs, Sonia
+9 Hasani, Sare
+10 Jakob, Simon
+11 Kopic, Melda
+12 Mai, Constantin
+13 Meder, Katharina
+14 Nase, Christoph
+15 Rambeck, Robinson
+16 Reisinger, Tim
+17 Rührmair, Lena
+18 Schmidt, Luca
+19 Seidl, Laurin
+20 Tschense, Paula
+21 Werstein, Elif
+22 Yahsi, Yavuz
+
+2ku5 (Slt)
+1 Aal-Hassan, Shehed
+2 Achenbach, Mathilda
+3 Auer, Valentin
+4 Bauer, Louisa
+5 Bloch, Daniel
+6 Chatzivasileiadou,
+7 Daiker, David
+8 Dzuba, Yannick
+9 Ehrmann, Emilia
+10 Faliouni, Marwa
+11 Friedrich, Corvin
+12 Gerschel, Simon
+13 Gutschmidt, Sarah
+14 Hartwig, Jara
+15 Hassan, Safia
+16 Huianu, Alexander
+17 Kaiser, Lilli
+18 Kutzmann, Johann
+19 Ortivero Calderön,
+20 Phan, Paul
+21 Slisko, Filip
+22 Tschense, Paula
+23 Walden, Lea
+
+2m2 (Ott)
+1 Auer, Valentin
+2 Bloch, Daniel
+3 Christ, Darius
+4 Dzuba, Yannick
+5 Ekkert, Vlad
+6 Freimüller, Simon
+7 Gilles, Greta
+8 Großmann, Anton
+9 Hassan, Safia
+10 Heilmann, Liliane
+11 Kaiser, Lilli
+12 Kraus, Michael
+13 Maiwand, Davud
+14 Mehinovic, Senna
+15 Natarajan, Aryan
+16 Phan, Paul
+17 Rangelov, Alexander
+18 Richter, Paul
+19 Sangoi, Giulia
+20 Sewald, Thomas
+21 Walden, Lea
+22 Westenberger, Philipp
+23 Yuan, Zhechang
+
+2m3 (Pep)
+1 Aghababyan, Harut
+2 Bauer, Louisa
+3 Brereton, Allana
+4 Friedrich, Corvin
+5 Gashi, Eronda
+6 Gaul, Luis
+7 Gnan, Jasco
+8 Gutschmidt, Sarah
+9 Hausmann, Charlotte
+10 Kögel, Luna
+11 Krisch Aguilar, Paula
+12 Omerzai, Pasarle
+13 Pikalev, Andrej
+14 Rathje, Jonas
+15 Riek, Sonja
+16 Rokitta, Sophia
+17 Schindel, Diana
+18 Schob, Pauline
+19 Sinoveic, Lorena
+20 Walter, Zeno
+21 Waltner, Elias
+22 Witte, Lukas
+
+2mu1 (Gst)
+1 Alahmar, Sophie
+2 Elfring, Julian
+3 Ens, Julian
+4 Gaul, Luis
+5 Götz, Hannah
+6 Götz, Maximilian
+7 Großmann, Anton
+8 Hausmann, Charlotte
+9 Heiß, Christoph
+10 Kohlmaier, Noah
+11 Krisch Aguilar, Paula
+12 Matic, llija
+13 Prexl, Matthias
+14 Rührmair, Lena
+15 Sangoi, Giulia
+16 Zajac, Bartosz
+
+2m4 (Grs)
+1 Achenbach, Mathilda
+2 Anwander, Johannes
+3 Brichzin, Mara
+4 Ehrmann, Emilia
+5 Elfring, Julian
+6 Götz, Hannah
+7 Habermann, Philipp
+8 Heiß, Christoph
+9 Hoang, Phuong Anh
+10 Huianu, Alexander
+11 Kohlmaier, Noah
+12 Martienssen, Nils
+13 Mocevic, Vukasin
+14 Mucher, Marlene
+15 Ortivero Calderön,
+16 Poenaru, Victor
+17 Reiminger, Corvin
+18 Ritscher, Lena
+19 Schinharl, Lisa
+20 Slisko, Filip
+21 Wittmann, Eric
+22 Ziegler, Leo
+
+2mu2 (Wfl)
+1 Becker, Finn
+2 Bucher, Alexander
+3 Ekkert, Vlad
+4 Huang, Jeffrey
+5 Kondor, Botond
+6 Luz-y-Graf, Paul
+7 Metzmeier, Emma
+8 Mutig, Timur
+9 Pikalev, Andrej
+10 Rambeck, Robinson
+11 Schad, Mirijam
+12 Schütz, Max
+13 Seidl, Laurin
+14 Weck, Jonathan
+15 Yahsi, Yavuz
+16 Ziegler, Leo
+
+2m5 (Bed)
+1 Alahmar, Sophie
+2 Behrens, Luca
+3 Bucher, Alexander
+4 Chatzivasileiadou,
+5 Docter, Sarah
+6 Ens, Julian
+7 Gäßner, Max
+8 Götz, Maximilian
+9 Hadzic, Mehmed
+10 Heigl, Leon
+11 Ibrahim Amballi, Yasin
+12 Komarnitskiy, Pavel
+13 Kutzmann, Johann
+14 Matic, Marko
+15 Palm, Julia
+16 Pfleger, Lena
+17 Rittweger, Paula
+18 Schad, Mirijam
+19 Schütz, Max
+20 Stern, Lena
+21 Warlo, Mohammed
+22 Wizigmann, Nicolas
+23 Ziep, Maya
+
+2PH1 (Kt)
+1 Dirnhofer, Theresa
+2 Gaul, Luis
+3 Gnan, Jasco
+4 Heiß, Christoph
+5 Huianu, Alexander
+6 Kondor, Botond
+7 Omerzai, Pasarle
+8 Rambeck, Robinson
+9 Schütz, Max
+10 Waltner, Elias
+11 Warlo, Mohammed
+12 Weck, Jonathan
+13 Witte, Lukas
+
+2m6 (Rag)
+1 Abdurahman, Rischart
+2 Becker, Finn
+3 Bergner, Inga
+4 Daiker, David
+5 Faliouni, Marwa
+6 Grohs, Nicolas
+7 Hartwig, Jara
+8 Hoffmann, Anais
+9 Huang, Jeffrey
+10 Iseni, Lorika
+11 Kondor, Botond
+12 Luz-y-Graf, Paul
+13 Matic, llija
+14 Metzmeier, Emma
+15 Mutig, Timur
+16 Poggemann, Freda
+17 Prexl, Matthias
+18 Schmid, Felix
+19 Sckopp, Dion
+20 Talebe, Ines
+21 Weck, Jonathan
+22 Zajac, Bartosz
+
+2ph2 (Sbl)
+1 Alahmar, Sophie
+2 Bucher, Alexander
+3 Dzuba, Yannick
+4 Ekkert, Vlad
+5 Gäßner, Max
+6 Gilles, Greta
+7 Götz, Maximilian
+8 Komarnitskiy, Pavel
+9 Maiwand, Davud
+10 Mucher, Marlene
+11 Mutig, Timur
+12 Poenaru, Victor
+13 Reiminger, Corvin
+14 Reisinger, Tim
+15 Schmidt, Luca
+16 Seidl, Laurin
+17 Sewald, Thomas
+18 Tschense, Paula
+19 Yuan, Zhechang
+20 Ziep, Maya
+
+2ph3 (Jar)
+1 Daiker, David
+2 Elfring, Julian
+3 Gerschel, Simon
+4 Grohs, Nicolas
+5 Großmann, Anton
+6 Habermann, Philipp
+7 Jakob, Simon
+8 Kraus, Michael
+9 Luz-y-Graf, Paul
+10 Martienssen, Nils
+11 Matic, llija
+12 Natarajan, Aryan
+13 Pikalev, Andrej
+14 Poggemann, Freda
+15 Richter, Paul
+16 Rührmair, Lena
+17 Schinharl, Lisa
+18 Schmid, Felix
+19 Schob, Pauline
+20 Sckopp, Dion
+21 Stern, Lena
+22 Walden, Lea
+23 Westenberger, Philipp
+24 Wittmann, Eric
+
+2pug4 (Stf)
+1 Auer, Lorenz
+2 Bissinger, Elin
+3 Brichzin, Mara
+4 Hadzic, Mehmed
+5 Hasani, Sare
+6 Hassan, Safia
+7 Hoffmann, Anais
+8 Iseni, Lorika
+9 Kraus, Michael
+10 Martienssen, Nils
+11 Matic, Marko
+12 Meder, Katharina
+13 Mocevic, Vukasin
+14 Omerzai, Pasarle
+15 Pikalev, Andrej
+16 Rangelov, Alexander
+17 Reiminger, Corvin
+18 Richter, Paul
+19 Rührmair, Lena
+20 Schütz, Max
+21 Slisko, Filip
+22 Walter, Zeno
+23 Warlo, Mohammed
+24 Wizigmann, Nicolas
+25 Zajac, Bartosz
+
+2PUG1 (Rob)
+1 Alahmar, Sophie
+2 Anwander, Johannes
+3 Behrens, Luca
+4 Chatzivasileiadou,
+5 Chatzivasileiadou,
+6 Frank, Marleen
+7 Hartwig, Jara
+8 Heigl, Leon
+9 Kohlmaier, Noah
+10 Luz-y-Graf, Paul
+11 Riek, Sonja
+12 Rokitta, Sophia
+13 Tschense, Paula
+
+2pug5 (Gru)
+1 Aghababyan, Harut
+2 Bauer, Louisa
+3 Bloch, Daniel
+4 Faliouni, Marwa
+5 Freimüller, Simon
+6 Friedrich, Corvin
+7 Gashi, Eronda
+8 Götz, Hannah
+9 Grohs, Sonia
+10 Großmann, Anton
+11 Jakob, Simon
+12 Mai, Constantin
+13 Pfleger, Lena
+14 Rathje, Jonas
+15 Reisinger, Tim
+16 Ritscher, Lena
+17 Schindel, Diana
+18 Schinharl, Lisa
+19 Sckopp, Dion
+20 Stern, Lena
+21 Waltner, Elias
+22 Westenberger, Philipp
+23 Yahsi, Yavuz
+24 Yuan, Zhechang
+
+2pug2 (Fra)
+1 Abdurahman, Rischart
+2 Bergner, Inga
+3 Brereton, Allana
+4 Ens, Julian
+5 Gutschmidt, Sarah
+6 Hausmann, Charlotte
+7 Heiß, Christoph
+8 Hoang, Phuong Anh
+9 Ibrahim Amballi, Yasin
+10 Kögel, Luna
+11 Kopic, Melda
+12 Krisch Aguilar, Paula
+13 Mehinovic, Senna
+14 Palm, Julia
+15 Poenaru, Victor
+16 Poggemann, Freda
+17 Prexl, Matthias
+18 Rittweger, Paula
+19 Sangoi, Giulia
+20 Schmidt, Luca
+21 Sinovcic, Lorena
+22 Talebe, Ines
+23 Werstein, Elif
+24 Ziep, Maya
+
+2pug6 (Ueb)
+1 Christ, Darius
+2 Ekkert, Vlad
+3 Elfring, Julian
+4 Gäßner, Max
+5 Gaul, Luis
+6 Gilles, Greta
+7 Gnan, Jasco
+8 Götz, Maximilian
+9 Huang, Jeffrey
+10 Komarnitskiy, Pavel
+11 Kutzmann, Johann
+12 Maiwand, Davud
+13 Matic, llija
+14 Metzmeier, Emma
+15 Mutig, Timur
+16 Nase, Christoph
+17 Natarajan, Aryan
+18 Ortivero Calderön,
+19 Schad, Mirijam
+20 Schmid, Felix
+21 Schob, Pauline
+22 Sewald, Thomas
+23 Weck, Jonathan
+24 Witte, Lukas
+
+2pug3 (Ilg)
+1 Aal-Hassan, Shehed
+2 Achenbach, Mathilda
+3 Auer, Valentin
+4 Becker, Finn
+5 Bucher, Alexander
+6 Daiker, David
+7 Dirnhofer, Theresa
+8 Docter, Sarah
+9 Dzuba, Yannick
+10 Ehrmann, Emilia
+11 Gerschel, Simon
+12 Grohs, Nicolas
+13 Habermann, Philipp
+14 Heilmann, Liliane
+15 Huianu, Alexander
+16 Kaiser, Lilli
+17 Kondor, Botond
+18 Mucher, Marlene
+19 Phan, Paul
+20 Rambeck, Robinson
+21 Seidl, Laurin
+22 Walden, Lea
+23 Wittmann, Eric
+
+2RU1 (extern)
+1 Bloch, Daniel
+2 Pikalev, Andrej
+
+2SMW1 (Str)
+1 Achenbach, Mathilda
+2 Auer, Lorenz
+3 Auer, Valentin
+4 Ekkert, Vlad
+5 Ens, Julian
+6 Gainer, Max
+7 Habermann, Philipp
+8 Martienssen, Nils
+9 Richter, Paul
+10 Schmidt, Luca
+11 Sckopp, Dion
+12 Sewald, Thomas
+13 Slisko, Filip
+
+2smw5_Fitne (Joc)
+1 Christ, Darius
+2 Dzuba, Yannick
+3 Freimüller, Simon
+4 Gerschel, Simon
+5 Gilles, Greta
+6 Götz, Maximilian
+7 Großmann, Anton
+8 Hadzic, Mehmed
+9 Heigl, Leon
+10 Jakob, Simon
+11 Kögel, Luna
+12 Metzmeier, Emma
+13 Omerzai, Pasarle
+14 Ortivero Calderön,
+15 Phan, Paul
+16 Pikalev, Andrej
+17 Poggemann, Freda
+18 Ritscher, Lena
+19 Schmid, Felix
+20 Schob, Pauline
+21 Sinovcic, Lorena
+22 Tschense, Paula
+23 Yuan, Zhechang
+24 Zajac, Bartosz
+
+2smw2_Bad (Smd)
+1 Aal-Hassan, Shehed
+2 Abdurahman, Rischart
+3 Aghababyan, Harut
+4 Alahmar, Sophie
+5 Bauer, Louisa
+6 Becker, Finn
+7 Behrens, Luca
+8 Bergner, Inga
+9 Brereton, Allana
+10 Chatzivasileiadou,
+11 Chatzivasileiadou,
+12 Docter, Sarah
+13 Ehrmann, Emilia
+14 Faliouni, Marwa
+15 Gashi, Eronda
+16 Gaul, Luis
+17 Gnan, Jasco
+18 Götz, Hannah
+19 Gutschmidt, Sarah
+20 Hasani, Sare
+21 Hassan, Safia
+22 Hoffmann, Anais
+23 Weck, Jonathan
+24 Wittmann, Eric
+
+2smw6_Bad (Som)
+1 Hausmann, Charlotte
+2 Heilmann, Liliane
+3 Heiß, Christoph
+4 Hoang, Phuong Anh
+5 Huang, Jeffrey
+6 Kraus, Michael
+7 Krisch Aguilar, Paula
+8 Kutzmann, Johann
+9 Mehinovic, Senna
+10 Mocevic, Vukasin
+11 Mutig, Timur
+12 Natarajan, Aryan
+13 Pfleger, Lena
+14 Poenaru, Victor
+15 Prexl, Matthias
+16 Rangelov, Alexander
+17 Riek, Sonja
+18 Rittweger, Paula
+19 Sangoi, Giulia
+20 Schad, Mirijam
+21 Schindel, Diana
+22 Stern, Lena
+23 Talebe, Ines
+24 Walden, Lea
+
+2smw3_Tisc (Lg)
+1 Bloch, Daniel
+2 Daiker, David
+3 Friedrich, Corvin
+4 Ibrahim Amballi, Yasin
+5 Iseni, Lorika
+6 Kohlmaier, Noah
+7 Komarnitskiy, Pavel
+8 Kondor, Botond
+9 Kopic, Melda
+10 Luz-y-Graf, Paul
+11 Mai, Constantin
+12 Maiwand, Davud
+13 Matic, llija
+14 Matic, Marko
+15 Nase, Christoph
+16 Rambeck, Robinson
+17 Rathje, Jonas
+18 Reiminger, Corvin
+19 Reisinger, Tim
+20 Rokitta, Sophia
+21 Schütz, Max
+22 Seidl, Laurin
+23 Walter, Zeno
+24 Westenberger, Philipp
+25 Wizigmann, Nicolas
+26 Yahsi, Yavuz
+27 Ziep, Maya
+
+2spko1 (Lg)
+1 Alahmar, Sophie
+2 Behrens, Luca
+3 Chatzivasileiadou,
+4 Chatzivasileiadou,
+5 Daiker, David
+6 Faliouni, Marwa
+7 Hassan, Safia
+8 Kopic, Melda
+9 Krisch Aguilar, Paula
+10 Luz-y-Graf, Paul
+11 Ortivero Calderön,
+12 Schob, Pauline
+13 Sinovcic, Lorena
+
+2smw4_Klett (Ma)
+1 Anwander, Johannes
+2 Bissinger, Elin
+3 Brichzin, Mara
+4 Bucher, Alexander
+5 Dirnhofer, Theresa
+6 Elfring, Julian
+7 Frank, Marleen
+8 Grohs, Nicolas
+9 Grohs, Sonia
+10 Hartwig, Jara
+11 Huianu, Alexander
+12 Kaiser, Lilli
+13 Meder, Katharina
+14 Mucher, Marlene
+15 Palm, Julia
+16 Ruhrmair, Lena
+17 Schinharl, Lisa
+18 Waltner, Elias
+19 Warlo, Mohammed
+20 Werstein, Elif
+21 Witte, Lukas
+22 Ziegler, Leo
+
+2sps1 (Seg)
+1 Achenbach, Mathilda
+2 Aghababyan, Harut
+3 Bauer, Louisa
+4 Chatzivasileiadou,
+5 Faliouni, Marwa
+6 Gashi, Eronda
+7 Hasani, Sare
+8 Heilmann, Liliane
+9 Huang, Jeffrey
+10 Kaiser, Lilli
+11 Luz-y-Graf, Paul
+12 Nase, Christoph
+13 Poggemann, Freda
+14 Sinovcic, Lorena
+15 Werstein, Elif
+16 Zajac, Bartosz
+
+2sps2 (Lg)
+1 Abdurahman, Rischart
+2 Alahmar, Sophie
+3 Behrens, Luca
+4 Chatzivasileiadou,
+5 Daiker, David
+6 Hartwig, Jara
+7 Hassan, Safia
+8 Ibrahim Amballi, Yasin
+9 Kopic, Melda
+10 Krisch Aguilar, Paula
+11 Kutzmann, Johann
+12 Mocevic, Vukasin
+13 Ortivero Calderön,
+14 Palm, Julia
+15 Pfleger, Lena
+16 Rangelov, Alexander
+17 Ritscher, Lena
+18 Rittweger, Paula
+19 Schob, Pauline
+20 Yuan, Zhechang
+21 Ziep, Maya
+
+2wr1 (Sch)
+1 Auer, Lorenz
+2 Bloch, Daniel
+3 Daiker, David
+4 Ekkert, Vlad
+5 Freimüller, Simon
+6 Gnan, Jasco
+7 Götz, Maximilian
+8 Großmann, Anton
+9 Huang, Jeffrey
+10 Jakob, Simon
+11 Komarnitskiy, Pavel
+12 Matic, llija
+13 Metzmeier, Emma
+14 Mocevic, Vukasin
+15 Omerzai, Pasarle
+16 Pfleger, Lena
+17 Richter, Paul
+18 Rührmair, Lena
+19 Walden, Lea
+20 Wittmann, Eric
+21 Yahsi, Yavuz
+22 Zajac, Bartosz
+
+2stb1 (Ra)
+1 Bissinger, Elin
+2 Brichzin, Mara
+3 Dirnhofer, Theresa
+4 Docter, Sarah
+5 Gutschmidt, Sarah
+6 Heigl, Leon
+7 Hoffmann, Anais
+8 Kaiser, Lilli
+9 Palm, Julia
+10 Pfleger, Lena
+11 Riek, Sonja
+12 Ritscher, Lena
+13 Rittweger, Paula
+14 Schmidt, Luca
+
+2wr2 (Rec)
+1 Abdurahman, Rischart
+2 Alahmar, Sophie
+3 Anwander, Johannes
+4 Bergner, Inga
+5 Brereton, Allana
+6 Chatzivasileiadou,
+7 Chatzivasileiadou,
+8 Faliouni, Marwa
+9 Frank, Marleen
+10 Gaul, Luis
+11 Götz, Hannah
+12 Gutschmidt, Sarah
+13 Heiß, Christoph
+14 Ibrahim Amballi, Yasin
+15 Kögel, Luna
+16 Kopic, Melda
+17 Maiwand, Davud
+18 Poenaru, Victor
+19 Poggemann, Freda
+20 Prexl, Matthias
+21 Sangoi, Giulia
+22 Sinovcic, Lorena
+
+2vkm1 (Br)
+1 Becker, Finn
+2 Docter, Sarah
+3 Gaul, Luis
+4 Heiß, Christoph
+5 Huianu, Alexander
+6 Kögel, Luna
+7 Komarnitskiy, Pavel
+8 Kondor, Botond
+9 Meder, Katharina
+10 Metzmeier, Emma
+11 Omerzai, Pasarle
+12 Pikalev, Andrej
+13 Poenaru, Victor
+14 Rambeck, Robinson
+15 Schütz, Max
+16 Seidl, Laurin
+17 Slisko, Filip
+18 Wittmann, Eric
+
+2voc1 (Gst)
+1 Phan, Paul
+2 Rührmair, Lena
+3 Schad, Mirijam

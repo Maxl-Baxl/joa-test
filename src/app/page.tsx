@@ -15,9 +15,9 @@ export default function Home() {
               Vertretungsplan Morgen
             </a>
           </Link>
-          <Link href="/">
+          <Link href="href="stundenplan-oberstufe"">
             <a className="bg-blue-800 hover:bg-blue-900 text-white p-4 m-2 rounded">
-              Box 3
+              Stundenplan-Tool
             </a>
           </Link>
           <Link href="/">

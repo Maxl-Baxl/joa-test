@@ -29,7 +29,7 @@ export default function Home() {
         </div>
       </nav>
       <h1 className="text-lg mt-5 ml-5 mb-3">
-        Das hier ist die inoffizielle MGM-Webseite von Max und Timur, gerippt von Maxl
+        Das hier ist die inoffizielle MGM-Webseite von Max und Timur, offiziell gerippt von Maxl
       </h1>
     </>
   )

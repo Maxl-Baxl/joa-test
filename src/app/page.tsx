@@ -3,7 +3,6 @@ import Link from "next/link"
 export default function Home() {
   return (
     <>
-      <img src="/src/logo-mgm.gif" alt="Image description" className="w-full h-48 object-cover" />
       <nav className="flex justify-between mb-5">
         <div className="flex flex-wrap justify-center">
           <Link href="https://wwwalt.michaeli-gymnasium.de/intern/vplan/vplanmgm.php?vplan=schueler1">

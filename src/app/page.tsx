@@ -1,24 +1,4 @@
 import Link from "next/link";
-import axios from "axios";
-import cheerio from "cheerio";
-
-export default function Home() {
-  const [events, setEvents] = useState([]);
-
-  useEffect(() => {
-    axios.get("https://www.michaeli-gymnasium.de/infos-und-termine/termine")
-      .then(response => {
-        const $ = cheerio.load(response.data);
-        const eventsList = [];
-        $(".termin-liste li").each((index, element) => {
-          eventsList.push($(element).text());
-        });
-        setEvents(eventsList);
-      })
-      .catch(error => {
-        console.error(error);
-      });
-  }, []);
 
   return (
     <>

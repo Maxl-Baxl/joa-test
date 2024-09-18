@@ -1,5 +1,6 @@
+'use client';
+
 import Link from "next/link";
-import { useState } from "react";
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
@@ -7,6 +8,7 @@ export default function Home() {
   const toggleDarkMode = () => {
     setDarkMode(!darkMode);
   };
+
 
   return (
     <>

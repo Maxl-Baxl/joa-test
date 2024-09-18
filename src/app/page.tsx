@@ -11,7 +11,7 @@ export default function Home() {
 
         <div className="flex flex-wrap justify-center">
 
-          <Link href="https://wwwalt.michaeli-gymnasium.de/intern/vplan/vplanmgm.php?vplan=schueler1">
+          <Link href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 
             <a className="bg-blue-800 hover:bg-blue-900 text-white p-4 m-2 rounded">
 
@@ -21,7 +21,7 @@ export default function Home() {
 
           </Link>
 
-          <Link href="https://wwwalt.michaeli-gymnasium.de/intern/vplan/vplanmgm.php?vplan=schueler2">
+          <Link href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 
             <a className="bg-blue-800 hover:bg-blue-900 text-white p-4 m-2 rounded">
 
